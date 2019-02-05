@@ -5,5 +5,5 @@ Automate use of flic buttons in some python extensible way
 
 On your raspberry pi, git clone this repro
 
-    git clone https://github.com/gordonwatts/RasFlic.git
+    git clone --recursive https://github.com/gordonwatts/RasFlic.git
 
